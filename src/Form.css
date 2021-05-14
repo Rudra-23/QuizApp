@@ -17,6 +17,9 @@ form {
 }
 .child {
     width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 span {
     padding-right: 3px;

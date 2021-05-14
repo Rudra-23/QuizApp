@@ -35,6 +35,8 @@ function Form() {
                   name="no"
                   onChange={updateno}
                   placeholder="10"
+                  min='1'
+                  max='50'
                 />
               </label>
             </div>
