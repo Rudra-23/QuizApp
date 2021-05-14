@@ -1,0 +1,10 @@
+.list {
+    display: flex;
+    background-color: rgb(247, 247, 247);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+}

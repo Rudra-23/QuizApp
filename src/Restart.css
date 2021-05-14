@@ -1,0 +1,16 @@
+.refreshbtn {
+  font-family: 'Montserrat', sans-serif;
+  width: 200px;
+  height: 40px;
+  border: 2px solid black;
+  background-color: rgb(136, 0, 113);
+  color: white;
+  border-radius: 30px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.refreshbtn:hover {
+  font-family: 'Montserrat', sans-serif;
+  background-color: tomato;
+  color: black;
+}
