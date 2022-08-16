@@ -1,4 +1,4 @@
-Quiz App
+# Quiz App
 
 Link: <a href="https://quizzer-react.herokuapp.com/">https://quizzer-react.herokuapp.com/</a>
 
