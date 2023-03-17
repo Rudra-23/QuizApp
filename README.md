@@ -2,7 +2,7 @@
 
 A website that generates requests trivia questions for users based on quantity, genre and difficulty.
 
-Link: <a href="https://quizzer-react.herokuapp.com/">https://quizzer-react.herokuapp.com/</a>
+Link: <a href="https://quizzer-react.onrender.com/">https://quizzer-react.onrender.com/</a>
 
 Technologies Used:
 
